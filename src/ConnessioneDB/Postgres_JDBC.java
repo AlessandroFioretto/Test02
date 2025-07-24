@@ -6,7 +6,7 @@ import java.util.Date;
 
 public class Postgres_JDBC {
     public static void main(String[] args) {
-        System.out.println("Ciao");
+        System.out.println("Ciao sono ema");
         Connection conn_SQL = null;
 
         //istanzia la classe di connessione al DB
